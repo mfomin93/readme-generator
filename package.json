@@ -1,0 +1,32 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfomin93/readme-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfomin93/readme-generator/issues"
+  },
+  "homepage": "https://github.com/mfomin93/readme-generator#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "date-fns": "^2.11.0",
+    "ejs": "^3.0.1",
+    "git-repo-name": "^1.0.1",
+    "inquirer": "^7.1.0",
+    "jest": "^25.1.0",
+    "load-json-file": "^6.2.0",
+    "markdown-escape": "^1.0.2",
+    "node-fetch": "^2.6.0",
+    "ora": "^4.0.3"
+  }
+}
